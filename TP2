@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+    <html lang="fr">
+    <head>
+        <meta charset="UTF-8"
+        <title>Mon emploi du temps</title>
+    </head>
+    <body>
+
+    <div style="width: 100%; margin-bottom: 20px;">
+    
+    <div style="text-align: right; margin-bottom: 10px;">
+        <span style="font-weight: bold; border-bottom: 2px solid black; padding-bottom: 2px; font-size: 16px;">
+            Année Universitaire 2025-2026
+        </span>
+    </div>
+
+    <div style="text-align: center; margin-top: 20px;">
+        <h2 style="display: 1px solid black; padding: 5px 20px; font-weight: bold; font-size: 18px;">
+            <h2>Emploi Du Temps « Provisoire » — IAIL- S2</h2>
+        </h2>
+    </div>
+</div>         
+    
+    <table border="1">
+        <tr>
+            <th bgcolor="gray">Heure</th>
+            <th bgcolor="gray">9:00_10:30</th>
+            <th bgcolor="gray">10:30_12:00</th>
+            <th bgcolor="gray">12:15_13:45</th>
+            <th bgcolor="gray">13:45_15:15</th>
+            <th bgcolor="gray">15:30_17:00</th>
+            <th bgcolor="gray">17:00_18:30</th>
+        </tr>
+
+        <tr>
+            <td bgcolor="gray">Lundi</td>
+            <td>Programmation Python2<br><a href="./message_prof.html">prof M.Laraqui</a></td>
+            <td>Algorithmes Et Programmation C2<br><a href="./message_prof.html">Prof H.Oudani</a></td>
+            <td bgcolor="lightgray"></td>
+            <td>Algorithmes Et Programmation C2<br><a href="./message_prof.html">Prof H.Oudani</a></td>
+            <td>Programmation Python 2<br><a href="./message_prof.html">Prof A.Elouardi</a></td>
+            <td>Programmation Python 2<br><a href="./message_prof.html">Prof A.Elouardi</a></td>
+        </tr>
+        <Tr>
+            <Td bgcolor="gray">Mardi</Td>
+            <Td>Programmation Python 2<br><a href="./message_prof.html">Prof A.Elouardi</a></Td>
+            <Td bgcolor="lightgray"></Td>
+            <Td>Digital Skills & Intelligence Artificielle<br><a href="./message_prof.html">Prof A.Elourdi</a></Td>
+            <Td>Digital Skills & Intelligence Artificielle<br><a href="./message_prof.html">Prof A.Elourdi</a></Td>
+            <Td bgcolor="lightgray"></Td>
+            <Td bgcolor="lightgray"></Td>
+        </tr>
+        <tr>
+            <Td bgcolor="gray">Mercredi</Td>
+            <Td bgcolor="lightgray"></Td>
+            <Td bgcolor="lightgray"></Td>
+            <Td bgcolor="lightgray"></Td>
+            <Td>Algorithmes Et Programmation C2<br><a href="./message_prof.html">Prof H.Oudani</a></Td>
+            <Td>Algébre 2<br><a href="./message_prof.html">I.Boutaayamo</a></Td>
+            <Td>Analyse 2<br><a href="./message_prof.html">A.Hadri</a></Td>
+        </tr>
+        <tr>
+            <Td bgcolor="gray">Jeudi</Td>
+            <Td>Traitement Du Signal<br><a href="./message_prof.html">Prof H.Azzahhafi</a>/<Td>
+            <Td>Traitement Du Signal<br><a href="./message_prof.html">Prof H.Azzahhafi</a></Td>
+            <Td bgcolor="lightgray"></Td>
+            <Td bgcolor="lightgray"></Td>
+            <Td bgcolor="lightgray"></Td>
+            <Td bgcolor="lightgray"></Td> 
+        </tr>
+        <tr>
+            <Td bgcolor="gray">vendredi</Td>
+            <Td>Algébre 2<br><a href="./message_prof.html">Prof I.Boutaaymo</a></Td>
+            <Td>Analyse 2<br><a href="./message_prof.html">Prof A.Hadri</a></Td>
+            <Td bgcolor="lightgray"></Td>
+            <Td bgcolor="lightgray"></Td>
+            <Td bgcolor="lightgray"></Td>
+            <Td bgcolor="lightgray"></Td>
+        </tr>
+        <tr>
+            <Td bgcolor="gray">Samedi</Td>
+            <Td bgcolor="lightgray"></Td>
+            <Td bgcolor="lightgray"></Td>
+            <Td bgcolor="lightgray"></Td>
+            <Td>Programmation Web 1<br><a href="./message_prof.html">Prof A.Hkem</a></Td>
+            <Td>Programmation Web 1<br><a href="./message_prof.html">Prof k.Omari</a></Td>
+            <Td>Programmation Web 1<br><a href="./message_prof.html">Prof K.Omari</a></Td>
+        </tr>
+
+        </table>
+
+        </body>
+        </html>
